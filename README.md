@@ -1,5 +1,6 @@
 # Book API
 This API is accessible at [quill.bevans.com](https:quill.bevans.com)
+
 A simple API to manage and download books stored on a server. This API allows you to fetch details of the books in the library and download them as PDFs.
 
 ## Features
@@ -48,7 +49,7 @@ For security reasons, the POST method for adding new books and uploading files h
 ## Environment Variables
 
 - `UPLOAD_FOLDER`: Path where uploaded books should be stored.
-- 
+  
 - Database Configuration
 The application uses a PostgreSQL database to store and manage book data. The database connection is configured via environment variables:
 DB_NAME: The name of the PostgreSQL database (e.g., books).
