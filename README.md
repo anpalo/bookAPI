@@ -1,5 +1,5 @@
 # Book API
-This API is accessible at [quill.bevans.com](https:quill.bevans.com)
+This API is accessible at quill.bevans.com
 
 A simple API to manage and download books stored on a server. This API allows you to fetch details of the books in the library and download them as PDFs.
 
